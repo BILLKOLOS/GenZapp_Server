@@ -1,4 +1,4 @@
-Signal-Server
+GenZapp-Server
 =================
 
 Documentation
