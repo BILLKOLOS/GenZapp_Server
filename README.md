@@ -4,10 +4,7 @@ GenZapp-Server
 Documentation
 -------------
 
-Looking for protocol documentation? Check out the website!
-
-https://signal.org/docs/
-
+Looking for protocol documentation?
 Cryptography Notice
 ------------
 
